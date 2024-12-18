@@ -86,7 +86,8 @@ function Login({ setIsAuthenticated }) {
               textShadow: '0 2px 4px rgba(0, 0, 0, 0.2)',
             }}
           >
-            PORN HUB
+            General SanJuan
+          
           </Navbar.Brand>
         </Container>
       </Navbar>
